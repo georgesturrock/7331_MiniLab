@@ -1,3 +1,5 @@
+## Mini Lab Data Files
+
 teams2Plus.csv = Full team level data set with summarized "salary" column
 teamX.csv = cleansed explanatory variables
 teamY.csv = Playoff 1/0 indicator
